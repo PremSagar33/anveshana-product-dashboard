@@ -1,0 +1,6 @@
+
+Make sure to replace `anveshana/frontend/` and `anveshana/backend/main/` with the actual paths where your React and Go projects are located, respectively.
+
+For the back-end, you can include the `server.go` file directly in the root or a specific folder of the back-end project directory.
+
+This `README.md` provides a basic guide to start the application in a development environment. For a production setup, you'd need additional steps for building and deploying both the front-end and the back-end, along with environment-specific configurations.
